@@ -1,0 +1,20 @@
+{
+  "name": "angularJSProject",
+  "homepage": "https://github.com/rburger27/FrontEndFrameWorksAngularJS",
+  "authors": [
+    "Gary Burger <rburger27@gmail.com>"
+  ],
+  "description": "Project for SCI Frontend Frameworks Angular JS Section",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.6"
+  }
+}
